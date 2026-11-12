@@ -1,0 +1,10 @@
+{
+  "name": "Remix KidLingo Fun - ألعاب وفيديوهات الإنجليزية التفاعلية للأطفال",
+  "description": "منصة تعليمية تفاعلية للأطفال والمعلمين لإنشاء ولعب ألعاب ومسابقات الإنجليزية، تمارين المفردات، نظام النقاط والجوائز، وفيديوهات تفاعلية لتعزيز الاستماع والنطق.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
